@@ -17,7 +17,6 @@ The test has been running for some time and the VP of Product is interested in u
 
 2. The VP of Product is interested in having a holistic view into user behavior, especially focusing on actionable insights that might increase conversion rate. What are your main findings looking at the data?
 
-3. The VP of Product feels that the test has been running for too long and she should have been able to get statistically significant results in a shorter time. Do you agree with her intuition? After how many days would you have stopped the test? Please, explain why.
 
 ## Data
 We have two tables, they are:
